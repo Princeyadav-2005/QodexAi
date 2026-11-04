@@ -1,168 +1,255 @@
-# 🚀 Qodex AI — Your Coding Journey Starts Here
+# ⚡ QODEX AI
 
-**Learn Programming. Practice Coding. Build Real Projects.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090979,50:0077B6,100:00D4FF&height=190&section=header&text=QODEX%20AI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Learn%20%7C%20Practice%20%7C%20Build%20%7C%20Grow&descSize=19&descAlignY=65" width="100%" />
+</p>
 
-Qodex AI is a beginner-first, interactive coding education platform designed to make programming accessible to everyone. It combines structured learning paths, hands-on coding practice, AI-powered guidance, quizzes, challenges, and real-world projects in one place.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Your+AI-Powered+Coding+Companion;Learn+Programming+From+Zero;Practice+With+Interactive+Coding;Build+Real-World+Projects;Turn+Your+Ideas+Into+Code!" />
+</p>
 
-🌐 **Live Demo:** https://qodexai-version2.base44.app
+<p align="center">
+  <a href="https://qodexai-version2.base44.app">
+    <img src="https://img.shields.io/badge/🚀_EXPLORE_LIVE_DEMO-QODEX_AI-00BFFF?style=for-the-badge" />
+  </a>
+</p>
 
-<img width="1896" height="899" alt="image" src="https://github.com/user-attachments/assets/a6b93799-6fd4-4b3d-833b-0cf0baefd2cb" />
-<img width="1526" height="891" alt="image" src="https://github.com/user-attachments/assets/25b8ea79-146c-4a55-bfea-73e77b5c2a85" />
-
-
----
-
-## 📌 About The Project
-
-Learning programming can be overwhelming, especially for beginners. Traditional learning platforms often focus on theoretical explanations without providing enough hands-on practice.
-
-**Qodex AI solves this problem** by creating an interactive learning environment where students can:
-
-- Learn programming from absolute zero.
-- Practice code directly in the browser.
-- Get guidance from an AI-powered tutor.
-- Test their knowledge through quizzes and challenges.
-- Build practical projects.
-- Track their learning progress and achievements.
-
-Our goal is to help learners move from understanding their first programming concept to building their first real project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Web_Application-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Category-EdTech-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Powered_By-AI-00BFA6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+</p>
 
 ---
 
-## ✨ Key Features
+## 🌟 Welcome to Qodex AI
 
-### 1. 📚 Structured Learning Paths
-- 55 guided lessons.
-- Beginner-to-advanced learning structure.
-- Step-by-step explanations.
-- Practical coding examples.
-- Five supported learning paths.
+**Qodex AI** is an interactive, beginner-friendly coding education platform designed to make programming easier, smarter, and more enjoyable.
 
-### 2. 💻 Interactive Code Playground
-- Browser-based coding environment.
-- Write and edit code.
-- Execute code and view console output.
-- Experiment with programming concepts.
-- Learn through hands-on practice.
+Whether you're writing your first line of Python or building your next project, Qodex AI brings learning, coding practice, AI assistance, challenges, and project building together in one place.
 
-### 3. 🤖 AI Coding Tutor
-- Get help when stuck.
-- Understand programming concepts.
-- Receive code explanations.
-- Get hints instead of simply receiving complete solutions.
-- Improve debugging and problem-solving skills.
+> 💡 Don't just learn how to code. Experience the journey of becoming a developer.
 
-### 4. 🧠 Interactive Quizzes
-- Test your understanding.
-- Practice after completing lessons.
-- Reinforce important programming concepts.
-- Improve knowledge through active learning.
+## 🖥️ Platform Preview
 
-### 5. 🏆 Graded Coding Challenges
-- 11 coding challenges.
-- Real test-case-based evaluation.
-- Practice logical thinking.
-- Improve problem-solving abilities.
-- Earn experience points through successful completion.
+<p align="center">
+  <b>🏠 Explore the Qodex AI Experience</b>
+</p>
 
-### 6. 🛠️ Guided Projects
-- Six practical learning projects.
-- Step-by-step project instructions.
-- Starter code.
-- Apply concepts through real implementations.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6b93799-6fd4-4b3d-833b-0cf0baefd2cb" width="100%" alt="Qodex AI homepage preview" />
+</p>
 
-### 7. 🎮 Gamified Learning Experience
-- XP and reward system.
-- Learning streaks.
-- Levels and badges.
-- Daily learning goals.
-- Progress tracking.
+<p align="center">
+  <b>📚 Interactive Learning Experience</b>
+</p>
 
-### 8. 📊 Learning Dashboard
-- Track learning progress.
-- Monitor completed lessons.
-- View achievements.
-- Follow your coding journey.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25b8ea79-146c-4a55-bfea-73e77b5c2a85" width="100%" alt="Qodex AI learning interface" />
+</p>
+
+---
+
+## ✨ Why Qodex AI?
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 AI Coding Tutor
+
+Get assistance, understand complex concepts, and improve your coding skills with AI-powered guidance.
+
+</td>
+<td width="50%" align="center">
+
+### 💻 Code Playground
+
+Write, edit, execute, and experiment with code in an interactive environment.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📚 Smart Learning Paths
+
+Follow structured lessons and learn programming step by step.
+
+</td>
+<td width="50%" align="center">
+
+### 🧠 Coding Challenges
+
+Test your knowledge and improve logical thinking with coding problems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🛠️ Real-World Projects
+
+Apply your programming knowledge through guided practical projects.
+
+</td>
+<td width="50%" align="center">
+
+### 🏆 Gamified Learning
+
+Earn XP, maintain streaks, unlock achievements, and track progress.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Qodex AI By The Numbers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📚_Guided_Lessons-55-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Learning_Paths-5-8B5CF6?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Coding_Challenges-11-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Guided_Projects-6-F59E0B?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌍 Supported Programming Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
+</p>
+
 | Language | Learning Focus |
 |---|---|
-| Python | Programming fundamentals and logic |
-| C++ | Memory, performance and problem-solving |
-| Java | Object-oriented programming and software development |
-| JavaScript | Web development and interactivity |
-| HTML & CSS | Website structure and design |
+| 🐍 Python | Programming fundamentals and logic |
+| ⚙️ C++ | Problem-solving and performance |
+| ☕ Java | Object-oriented programming |
+| 🌐 JavaScript | Web development and interactivity |
+| 🎨 HTML & CSS | Website structure and design |
 
 ---
 
-## 🔄 How Qodex AI Works
+## 🎮 Learning Made Interactive
 
-1. **Choose a Language:** Select a programming language based on your learning goals.
-2. **Start Learning:** Follow structured lessons with simple explanations.
-3. **Practice Coding:** Write and execute code in the integrated playground.
-4. **Get AI Guidance:** Ask the AI tutor for explanations and hints.
-5. **Test Yourself:** Complete quizzes and coding challenges.
-6. **Build Projects:** Apply your knowledge to practical projects.
-7. **Track Progress:** Earn XP, maintain streaks and unlock achievements.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,12,20&height=100&section=header&text=LEVEL%20UP%20YOUR%20CODING%20SKILLS&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+- ⭐ Earn XP as you learn.
+- 🔥 Maintain daily learning streaks.
+- 🏅 Unlock achievements and badges.
+- 📈 Track your learning progress.
+- 🎯 Complete learning goals.
+- 🚀 Improve through continuous practice.
+
+## 🔄 Your Journey With Qodex AI
+
+```mermaid
+flowchart TD
+    A(["🚀 Start Coding Journey"]) --> B["🌍 Choose a Language"]
+    B --> C["📚 Learn Interactive Lessons"]
+    C --> D["💻 Practice in Playground"]
+    D --> E["🤖 Get AI Assistance"]
+    E --> F["🧠 Solve Coding Challenges"]
+    F --> G["🛠️ Build Real Projects"]
+    G --> H["🏆 Earn XP & Achievements"]
+    H --> I(["🌟 Become a Better Developer"])
+
+    style A fill:#2563eb,color:#fff
+    style I fill:#059669,color:#fff
+    style E fill:#7c3aed,color:#fff
+    style G fill:#0891b2,color:#fff
+```
+
+---
+
+## 📸 More From The Platform
+
+<p align="center">
+  <b>📊 Your Coding Journey, All in One Place</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d500a5a4-7d8f-4a86-963f-9b853498a6e0" width="100%" alt="Qodex AI platform dashboard preview" />
+</p>
 
 ---
 
 ## 🎯 Our Mission
 
-Our mission is to make programming education accessible, interactive, and enjoyable.
+We believe that programming education should be accessible to everyone.
 
-We believe that learning to code should not be limited by prior experience. Everyone should have the opportunity to understand technology, develop problem-solving skills, and build something meaningful.
+Our mission is to remove the fear of coding by making learning interactive, practical, and beginner-friendly.
 
-**Qodex AI — Learn by Doing, Grow by Building.**
+We want every learner to have the confidence to explore technology, solve problems, and turn ideas into real-world applications.
 
----
-
-## 🧪 Project Information
-
-- **Project Name:** Qodex AI
-- **Category:** EdTech / AI-Powered Learning
-- **Platform:** Web Application
-- **Learning Paths:** 5
-- **Guided Lessons:** 55
-- **Coding Challenges:** 11
-- **Guided Projects:** 6
-- **Target Audience:** Programming beginners and students
-- **Deployment:** Base44
+<p align="center">
+  <h3 align="center">LEARN. PRACTICE. BUILD. REPEAT.</h3>
+  <h3 align="center">⚡ Code Your Future With Qodex AI.</h3>
+</p>
 
 ---
 
-## 💾 Progress & Data
+## 💾 Project Information
 
-This hackathon demo currently saves learning progress in the user's browser rather than on a centralized server.
+| Information | Details |
+|---|---|
+| Project Name | Qodex AI |
+| Category | AI-Powered EdTech |
+| Platform | Web Application |
+| Deployment | Base44 |
+| Learning Paths | 5 |
+| Guided Lessons | 55 |
+| Coding Challenges | 11 |
+| Guided Projects | 6 |
+| Target Audience | Beginners & Students |
 
-Some learner stories and achievement examples displayed on the landing page are illustrative demo content.
+### 📌 Progress & Data
+
+The current demo stores learning progress in the user's browser rather than a centralized server. Some learner stories and achievement examples are illustrative demo content.
 
 ---
 
-## 🚀 Live Application
+## 🚀 Try Qodex AI Today!
 
-Explore Qodex AI:
+<p align="center">
+  <a href="https://qodexai-version2.base44.app">
+    <img src="https://img.shields.io/badge/OPEN_QODEX_AI-Start_Learning_Now-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-**https://qodexai-version2.base44.app**
-
-Start your coding journey today!
+<p align="center">
+  🌐 <b>Live Website:</b> https://qodexai-version2.base44.app
+</p>
 
 ---
-<img width="1895" height="900" alt="image" src="https://github.com/user-attachments/assets/d500a5a4-7d8f-4a86-963f-9b853498a6e0" />
 
-## 👨‍💻 Creator
+## 👨‍💻 Created By
 
-**Prince Yadav**
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Prince_Yadav-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-Created with the vision of making programming education easier, more practical, and accessible to everyone.
+<p align="center">
+  Built with a vision to make programming education smarter, easier, and accessible to everyone.
+</p>
 
 ---
 
 <p align="center">
-  **Qodex AI © 2026**
-  
-  *Built for learners, not for gatekeeping.*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:0077B6,100:00D4FF&height=130&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>⚡ QODEX AI © 2026</b>
+  <br/>
+  <i>Built for learners. Designed for creators. Powered by curiosity.</i>
+  <br/><br/>
+  ⭐ If you like this project, consider giving it a star!
 </p>
