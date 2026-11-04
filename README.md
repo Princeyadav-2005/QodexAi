@@ -6,6 +6,10 @@ Qodex AI is a beginner-first, interactive coding education platform designed to 
 
 🌐 **Live Demo:** https://qodexai-version2.base44.app
 
+<img width="1896" height="899" alt="image" src="https://github.com/user-attachments/assets/a6b93799-6fd4-4b3d-833b-0cf0baefd2cb" />
+<img width="1526" height="891" alt="image" src="https://github.com/user-attachments/assets/25b8ea79-146c-4a55-bfea-73e77b5c2a85" />
+
+
 ---
 
 ## 📌 About The Project
@@ -147,6 +151,7 @@ Explore Qodex AI:
 Start your coding journey today!
 
 ---
+<img width="1895" height="900" alt="image" src="https://github.com/user-attachments/assets/d500a5a4-7d8f-4a86-963f-9b853498a6e0" />
 
 ## 👨‍💻 Creator
 
